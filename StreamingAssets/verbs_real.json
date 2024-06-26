@@ -1,0 +1,67 @@
+[
+    {
+        "right_answer": "speak",
+        "meaning": "express thoughts, opinions, or feelings orally",
+        "reference_verbs": [
+            {"verb": "declare", "meaning": "announce something clearly or loudly"},
+            {"verb": "proclaim", "meaning": "announce officially or publicly"},
+            {"verb": "articulate", "meaning": "express an idea or feeling fluently and coherently"},
+            {"verb": "utter", "meaning": "express by speaking"},
+            {"verb": "discourse", "meaning": "speak or write authoritatively about a topic"},
+            {"verb": "narrate", "meaning": "give a spoken or written account of"}
+        ],
+        "wrong_answers": ["whisper", "mumble"]
+    },
+    {
+        "right_answer": "carve",
+        "meaning": "cut (a hard material) in order to produce an aesthetically pleasing object or design",
+        "reference_verbs": [
+            {"verb": "sculpt", "meaning": "create or shape a sculpture"},
+            {"verb": "cut", "meaning": "penetrate with a sharp instrument"},
+            {"verb": "engrave", "meaning": "cut or carve a text or design on a surface"},
+            {"verb": "etch", "meaning": "cut into a surface with an acid or other corrosive substance to create an artistic design"},
+            {"verb": "chisel", "meaning": "shape or cut with a chisel"},
+            {"verb": "shape", "meaning": "give a particular shape or form to"}
+        ],
+        "wrong_answers": ["paint", "sketch"]
+    },
+    {
+        "right_answer": "enhance",
+        "meaning": "intensify, increase, or further improve the quality, value, or extent of",
+        "reference_verbs": [
+            {"verb": "amplify", "meaning": "increase the volume of sound, especially using an amplifier"},
+            {"verb": "boost", "meaning": "help or encourage to increase or improve"},
+            {"verb": "elevate", "meaning": "raise to a more important or impressive level"},
+            {"verb": "intensify", "meaning": "become or make more intense"},
+            {"verb": "augment", "meaning": "make something greater by adding to it; increase"},
+            {"verb": "magnify", "meaning": "make something appear larger than it is, especially with a lens or microscope"}
+        ],
+        "wrong_answers": ["diminish", "reduce"]
+    },
+    {
+        "right_answer": "innovate",
+        "meaning": "make changes in something established, especially by introducing new methods, ideas, or products",
+        "reference_verbs": [
+            {"verb": "invent", "meaning": "create or design something that has not existed before"},
+            {"verb": "pioneer", "meaning": "develop or be the first to use or apply a new method, area of knowledge, or activity"},
+            {"verb": "transform", "meaning": "make a thorough or dramatic change in the form, appearance, or character of"},
+            {"verb": "revolutionize", "meaning": "change something radically or fundamentally"},
+            {"verb": "reform", "meaning": "make changes in something (typically a social, political, or economic institution or practice) to improve it"},
+            {"verb": "develop", "meaning": "grow or cause to grow and become more mature, advanced, or elaborate"}
+        ],
+        "wrong_answers": ["copy", "imitate"]
+    },
+    {
+        "right_answer": "navigate",
+        "meaning": "plan and direct the route or course of a ship, aircraft, or other form of transportation, especially by using instruments or maps",
+        "reference_verbs": [
+            {"verb": "pilot", "meaning": "operate an aircraft or spacecraft"},
+            {"verb": "steer", "meaning": "guide or control the movement of (a vehicle, vessel, or aircraft)"},
+            {"verb": "sail", "meaning": "travel in a boat with sails, especially as a sport or recreation"},
+            {"verb": "traverse", "meaning": "travel across or through"},
+            {"verb": "explore", "meaning": "travel through (an unfamiliar area) in order to learn about it"},
+            {"verb": "chart", "meaning": "plan (a course of action)"}
+        ],
+        "wrong_answers": ["halt", "stop"]
+    }
+]
